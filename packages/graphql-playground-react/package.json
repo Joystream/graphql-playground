@@ -1,6 +1,6 @@
 {
   "name": "graphql-playground-react",
-  "version": "1.7.29",
+  "version": "1.7.30",
   "main": "./lib/lib.js",
   "typings": "./lib/lib.d.ts",
   "description": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).",
@@ -130,7 +130,7 @@
     "lodash.debounce": "^4.0.8",
     "markdown-it": "^8.4.1",
     "marked": "^0.8.2",
-    "prettier": "2.0.2",
+    "prettier": "^2.6.3",
     "prop-types": "^15.7.2",
     "query-string": "5",
     "react": "16.13.1",
